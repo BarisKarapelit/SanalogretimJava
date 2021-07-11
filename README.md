@@ -39,7 +39,7 @@ Her programlama dilinde olan temel yapıların ne olduğunu ve nerede neden kull
 
 ## Projects
 
-###1. Record Project
+### 1. Record Project
 ```bash
 How many are you Record :2
 //Kayıt adetini beliyor kullanıcı
@@ -56,7 +56,7 @@ Melis lada
 ```
 
 
-###2.
+### 2.
 
 
 
