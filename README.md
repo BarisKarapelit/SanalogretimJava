@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Barış Karapelit - [@bariskarapelit](https://twitter.com/your_username) - email@example.com
+Barış Karapelit - [@bariskarapelit](https://twitter.com/your_username) - bkarapelit48+SanalogretimJava@gmail.com
 
 Project Link: [SanalogretimJava](https://github.com/BarisKarapelit/SanalogretimJava)
 
